@@ -56,5 +56,5 @@ qi_stage_lib(tinythread++)
 file(GLOB_RECURSE TINYTHREAD_H RELATIVE ${CMAKE_CURRENT_SOURCE_DIR} "tinythread++/*.h")
 qi_install_header(${TINYTHREAD_H} KEEP_RELATIVE_PATHS)
 
-#add_subdirectory(boost_1_60_0)
+#add_subdirectory(boost_1_64_0)
 

@@ -6,3 +6,8 @@ Debug
 *.user
 *.log
 *.suo
+
+.qi
+.DS_Store
+*/.DS_Store
+build-mac/

@@ -14,6 +14,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 #define STB_IMAGE_IMPLEMENTATION
 
+#include <string>
+#include <sstream>
+#include <iostream>
 #include "JpegHelpers.h"
 #include "stb/stb_image.h"
 #include "jo/jo_jpeg.h"

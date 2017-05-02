@@ -52,7 +52,7 @@ The C++ SDK uses the Watson Developer Cloud services, a collection of REST APIs,
 ## OS X
 
 1. Setup qibuild and CMake. You can use Homebrew to install CMake, and any distribution of Python (2.7 recommended) to install qibuild through pip.
-2. Download the "Mac Toolchain" for Mac (C++ SDK 2.1.4 Mac 64) from https://community.aldebaran.com/en/resources/software and unzip into ~/toolchains/naoqi-sdk-mac64/.
+2. Download the "Mac Toolchain" for Mac (C++ SDK 2.5.5 Mac 64) from https://community.aldebaran.com/en/resources/software and unzip into ~/toolchains/naoqi-sdk-mac64/.
 3. Run the following commands:
   * cd {self root directory}
   * qitoolchain create mac ~/toolchains/naoqi-sdk-mac64/toolchain.xml
